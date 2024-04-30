@@ -4,21 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="5ce65ddd-7faa-4aa4-a0f0-050aa02896ea" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/encodings.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/day1/C01_Variables.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/day1/C02_Ortalama.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/day1/C03_Print.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/day1/C04_Concatination.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/day1/C05_Scanner.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/day1/C06_Scanner.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/day1/C07_IfElse.java" afterDir="false" />
-    </list>
+    <list default="true" id="5ce65ddd-7faa-4aa4-a0f0-050aa02896ea" name="Changes" comment="" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
