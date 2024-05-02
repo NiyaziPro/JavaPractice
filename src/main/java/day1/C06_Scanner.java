@@ -33,10 +33,7 @@ public class C06_Scanner {
         String studentNo = bolumIsim + girisYili + kayitNo;
         System.out.println("Basarilar dileriz :) "+studentNo+" sizin ogrenci numaranizdir !");
 
-        //ÖDEV: bir ürünün kdv li fiyatını hesaplayınız:kdv oranı=0.8
-        //ürün fiyatı kullanıcıdan alınacak
-        //kdv miktarı=ürün fiyatı* kdv oranı
-        //toplam fiyat=ürün fiyatı+kdv miktarı
+
 
 
 
