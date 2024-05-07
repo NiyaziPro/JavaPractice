@@ -12,7 +12,7 @@ public class Odev1 {
 
         Scanner input = new Scanner(System.in);
         System.out.print("Lutfen Kdv'siz ürün fiyatı'ni girin : ");
-        double kdvOran = 0.08;
+        double kdvOran = 0.8;
 
 
         if (input.hasNextDouble()) {
