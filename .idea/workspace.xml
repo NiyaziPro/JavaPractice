@@ -5,16 +5,15 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="5ce65ddd-7faa-4aa4-a0f0-050aa02896ea" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/src/main/java/day3/C01_ForLoop.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/day3/C02_ForLoop.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/day3/C03_NestedForLoop.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/day3/C04_SayiUcgeni.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/day3/C05_WhileLoop.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/day3/C06_DoWhileUp.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/day3/C07_Arrays.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/day3/C08_Arrays2.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/day1/Odev1.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/day1/Odev1.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/day2/C01_IfElse.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/day2/C01_IfElse.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/day2/C02_NestedIf.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/day2/C02_NestedIf.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/day2/C03_Ternary.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/day2/C03_Ternary.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/day2/C04_NestedTernary.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/day2/C04_NestedTernary.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/day2/C05_Switch.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/day2/C05_Switch.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/day2/C06_UserLogin.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/day2/C06_UserLogin.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/day2/C07_BurcBulma.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/day2/C07_BurcBulma.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/day2/C08_ForLoops.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/day2/C08_ForLoops.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -42,32 +41,46 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent">{
-  &quot;keyToString&quot;: {
-    &quot;ASKED_ADD_EXTERNAL_FILES&quot;: &quot;true&quot;,
-    &quot;Application.C01.executor&quot;: &quot;Run&quot;,
-    &quot;Application.C01_IfElse.executor&quot;: &quot;Run&quot;,
-    &quot;Application.C01_Variables.executor&quot;: &quot;Run&quot;,
-    &quot;Application.C02_NestedIf.executor&quot;: &quot;Run&quot;,
-    &quot;Application.C02_Ortalama.executor&quot;: &quot;Run&quot;,
-    &quot;Application.C03_Print.executor&quot;: &quot;Run&quot;,
-    &quot;Application.C03_Ternary.executor&quot;: &quot;Run&quot;,
-    &quot;Application.C04_Concatination.executor&quot;: &quot;Run&quot;,
-    &quot;Application.C04_NestedTernary.executor&quot;: &quot;Run&quot;,
-    &quot;Application.C05_Scanner.executor&quot;: &quot;Run&quot;,
-    &quot;Application.C05_Switch.executor&quot;: &quot;Run&quot;,
-    &quot;Application.C06_Scanner.executor&quot;: &quot;Run&quot;,
-    &quot;Application.C06_UserLogin.executor&quot;: &quot;Run&quot;,
-    &quot;Application.C07_BurcBulma.executor&quot;: &quot;Run&quot;,
-    &quot;Application.C07_IfElse.executor&quot;: &quot;Run&quot;,
-    &quot;Application.C08_ForLoops.executor&quot;: &quot;Run&quot;,
-    &quot;Application.Odev1.executor&quot;: &quot;Run&quot;,
-    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
-    &quot;ignore.virus.scanning.warn.message&quot;: &quot;true&quot;,
-    &quot;kotlin-language-version-configured&quot;: &quot;true&quot;
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "ASKED_ADD_EXTERNAL_FILES": "true",
+    "Application.C01.executor": "Run",
+    "Application.C01_ForLoop.executor": "Run",
+    "Application.C01_IfElse.executor": "Run",
+    "Application.C01_Variables.executor": "Run",
+    "Application.C02_ForLoop.executor": "Run",
+    "Application.C02_NestedIf.executor": "Run",
+    "Application.C02_Ortalama.executor": "Run",
+    "Application.C03_NestedForLoop.executor": "Run",
+    "Application.C03_Print.executor": "Run",
+    "Application.C03_Ternary.executor": "Run",
+    "Application.C04_Concatination.executor": "Run",
+    "Application.C04_NestedTernary.executor": "Run",
+    "Application.C04_SayiUcgeni.executor": "Run",
+    "Application.C05_Scanner.executor": "Run",
+    "Application.C05_Switch.executor": "Run",
+    "Application.C05_WhileLoop.executor": "Run",
+    "Application.C06_DoWhileUp.executor": "Run",
+    "Application.C06_Scanner.executor": "Run",
+    "Application.C06_UserLogin.executor": "Run",
+    "Application.C07_Arrays.executor": "Run",
+    "Application.C07_BurcBulma.executor": "Run",
+    "Application.C07_IfElse.executor": "Run",
+    "Application.C08_Arrays2.executor": "Run",
+    "Application.C08_ForLoops.executor": "Run",
+    "Application.DoWhileUp.executor": "Run",
+    "Application.Odev1.executor": "Run",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "ignore.virus.scanning.warn.message": "true",
+    "kotlin-language-version-configured": "true"
   }
-}</component>
-  <component name="RunManager" selected="Application.C07_BurcBulma">
+}]]></component>
+  <component name="RecentsManager">
+    <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="day3" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Application.C08_Arrays2">
     <configuration default="true" type="PythonConfigurationType" factoryName="Python">
       <module name="JavaPractice2" />
       <option name="ENV_FILES" value="" />
@@ -170,12 +183,12 @@
       <option name="USE_PATTERN" value="false" />
       <method v="2" />
     </configuration>
-    <configuration name="C04_NestedTernary" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="day2.C04_NestedTernary" />
+    <configuration name="C04_SayiUcgeni" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="day3.C04_SayiUcgeni" />
       <module name="JavaPractice2" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="day2.*" />
+          <option name="PATTERN" value="day3.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -183,12 +196,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="C05_Switch" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="day2.C05_Switch" />
+    <configuration name="C05_WhileLoop" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="day3.C05_WhileLoop" />
       <module name="JavaPractice2" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="day2.*" />
+          <option name="PATTERN" value="day3.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -196,12 +209,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="C06_UserLogin" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="day2.C06_UserLogin" />
+    <configuration name="C06_DoWhileUp" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="day3.C06_DoWhileUp" />
       <module name="JavaPractice2" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="day2.*" />
+          <option name="PATTERN" value="day3.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -209,12 +222,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="C07_BurcBulma" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="day2.C07_BurcBulma" />
+    <configuration name="C07_Arrays" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="day3.C07_Arrays" />
       <module name="JavaPractice2" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="day2.*" />
+          <option name="PATTERN" value="day3.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -222,12 +235,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="C08_ForLoops" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="day2.C08_ForLoops" />
+    <configuration name="C08_Arrays2" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="day3.C08_Arrays2" />
       <module name="JavaPractice2" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="day2.*" />
+          <option name="PATTERN" value="day3.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -237,11 +250,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.C07_BurcBulma" />
-        <item itemvalue="Application.C08_ForLoops" />
-        <item itemvalue="Application.C06_UserLogin" />
-        <item itemvalue="Application.C05_Switch" />
-        <item itemvalue="Application.C04_NestedTernary" />
+        <item itemvalue="Application.C08_Arrays2" />
+        <item itemvalue="Application.C07_Arrays" />
+        <item itemvalue="Application.C06_DoWhileUp" />
+        <item itemvalue="Application.C05_WhileLoop" />
+        <item itemvalue="Application.C04_SayiUcgeni" />
       </list>
     </recent_temporary>
   </component>
