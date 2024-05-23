@@ -5,14 +5,13 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="5ce65ddd-7faa-4aa4-a0f0-050aa02896ea" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/main/java/day3/C01_ForLoop.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/day3/C02_ForLoop.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/day3/C03_NestedForLoop.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/day3/C04_SayiUcgeni.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/day3/C05_WhileLoop.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/day3/C06_DoWhileUp.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/day3/C07_Arrays.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/day3/C08_Arrays2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/day4/C01_ArrayElemanEkleme.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/day4/C02_MDA.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/day4/C03_List.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/day4/C04_CommonNames.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/day4/C05_EnUzunKelime.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/day4/C06_CreateMethod.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/day4/C06_UseStaticMethod.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -45,23 +44,30 @@
   "keyToString": {
     "ASKED_ADD_EXTERNAL_FILES": "true",
     "Application.C01.executor": "Run",
+    "Application.C01_ArrayElemanEkleme.executor": "Run",
     "Application.C01_ForLoop.executor": "Run",
     "Application.C01_IfElse.executor": "Run",
     "Application.C01_Variables.executor": "Run",
     "Application.C02_ForLoop.executor": "Run",
+    "Application.C02_MDA.executor": "Run",
     "Application.C02_NestedIf.executor": "Run",
     "Application.C02_Ortalama.executor": "Run",
+    "Application.C03_List.executor": "Run",
     "Application.C03_NestedForLoop.executor": "Run",
     "Application.C03_Print.executor": "Run",
     "Application.C03_Ternary.executor": "Run",
+    "Application.C04_CommonNames.executor": "Run",
     "Application.C04_Concatination.executor": "Run",
     "Application.C04_NestedTernary.executor": "Run",
     "Application.C04_SayiUcgeni.executor": "Run",
+    "Application.C05_EnUzunKelime.executor": "Run",
     "Application.C05_Scanner.executor": "Run",
     "Application.C05_Switch.executor": "Run",
     "Application.C05_WhileLoop.executor": "Run",
+    "Application.C06_CreateMethod.executor": "Run",
     "Application.C06_DoWhileUp.executor": "Run",
     "Application.C06_Scanner.executor": "Run",
+    "Application.C06_UseStaticMethod.executor": "Run",
     "Application.C06_UserLogin.executor": "Run",
     "Application.C07_Arrays.executor": "Run",
     "Application.C07_BurcBulma.executor": "Run",
@@ -70,17 +76,26 @@
     "Application.C08_ForLoops.executor": "Run",
     "Application.DoWhileUp.executor": "Run",
     "Application.Odev1.executor": "Run",
+    "JAR Application.junit-4.13.2-javadoc.jar.executor": "Run",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "ignore.virus.scanning.warn.message": "true",
-    "kotlin-language-version-configured": "true"
+    "kotlin-language-version-configured": "true",
+    "last_opened_file_path": "C:/Users/User/Downloads/junit-4.13.2.jar",
+    "project.structure.last.edited": "Modules",
+    "project.structure.proportion": "0.0",
+    "project.structure.side.proportion": "0.0",
+    "settings.editor.selected.configurable": "vcs.Git"
   }
 }]]></component>
   <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\User\Desktop\Team Nikko\JavaPractice2\src\test" />
+    </key>
     <key name="CopyClassDialog.RECENTS_KEY">
       <recent name="day3" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.C08_Arrays2">
+  <component name="RunManager" selected="Application.C06_UseStaticMethod">
     <configuration default="true" type="PythonConfigurationType" factoryName="Python">
       <module name="JavaPractice2" />
       <option name="ENV_FILES" value="" />
@@ -183,12 +198,12 @@
       <option name="USE_PATTERN" value="false" />
       <method v="2" />
     </configuration>
-    <configuration name="C04_SayiUcgeni" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="day3.C04_SayiUcgeni" />
+    <configuration name="C03_List" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="day4.C03_List" />
       <module name="JavaPractice2" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="day3.*" />
+          <option name="PATTERN" value="day4.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -196,12 +211,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="C05_WhileLoop" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="day3.C05_WhileLoop" />
+    <configuration name="C04_CommonNames" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="day4.C04_CommonNames" />
       <module name="JavaPractice2" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="day3.*" />
+          <option name="PATTERN" value="day4.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -209,12 +224,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="C06_DoWhileUp" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="day3.C06_DoWhileUp" />
+    <configuration name="C05_EnUzunKelime" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="day4.C05_EnUzunKelime" />
       <module name="JavaPractice2" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="day3.*" />
+          <option name="PATTERN" value="day4.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -222,12 +237,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="C07_Arrays" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="day3.C07_Arrays" />
+    <configuration name="C06_CreateMethod" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="day4.C06_CreateMethod" />
       <module name="JavaPractice2" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="day3.*" />
+          <option name="PATTERN" value="day4.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -235,12 +250,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="C08_Arrays2" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="day3.C08_Arrays2" />
+    <configuration name="C06_UseStaticMethod" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="day4.C06_UseStaticMethod" />
       <module name="JavaPractice2" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="day3.*" />
+          <option name="PATTERN" value="day4.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -250,11 +265,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.C08_Arrays2" />
-        <item itemvalue="Application.C07_Arrays" />
-        <item itemvalue="Application.C06_DoWhileUp" />
-        <item itemvalue="Application.C05_WhileLoop" />
-        <item itemvalue="Application.C04_SayiUcgeni" />
+        <item itemvalue="Application.C06_UseStaticMethod" />
+        <item itemvalue="Application.C06_CreateMethod" />
+        <item itemvalue="Application.C05_EnUzunKelime" />
+        <item itemvalue="Application.C04_CommonNames" />
+        <item itemvalue="Application.C03_List" />
       </list>
     </recent_temporary>
   </component>
